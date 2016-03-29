@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPTPlay_win", "PPTPlay\PPTPlay_win.csproj", "{8631E3C3-F441-449F-B7AF-CF8F457FFAB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8631E3C3-F441-449F-B7AF-CF8F457FFAB6}.Debug|x86.ActiveCfg = Debug|x86
+		{8631E3C3-F441-449F-B7AF-CF8F457FFAB6}.Debug|x86.Build.0 = Debug|x86
+		{8631E3C3-F441-449F-B7AF-CF8F457FFAB6}.Release|x86.ActiveCfg = Release|x86
+		{8631E3C3-F441-449F-B7AF-CF8F457FFAB6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
